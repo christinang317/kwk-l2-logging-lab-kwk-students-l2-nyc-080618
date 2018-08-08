@@ -1,5 +1,2 @@
 const driver = 'bob';
-
-function hello(){
-  console.log("this code was called");
-} 
+console.log("this code was called");
